@@ -1,0 +1,5 @@
+Metric,Value
+Demographic Parity Difference,0.279632
+Equalized Odds Difference,0.375
+Female Accuracy,0.622951
+Male Accuracy,0.654676
